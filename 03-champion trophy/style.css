@@ -1,0 +1,47 @@
+#div1{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}#div2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#div3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table {
+    width: 80%; 
+    margin: 50px auto;
+    border-collapse: collapse; 
+    font-family: 'Arial', sans-serif; 
+}
+th {
+    background-color: #4CAF50; 
+    color: white; 
+    font-size: 18px; 
+    padding: 15px;
+    text-align: center;
+}
+td {
+    font-size: 16px;
+    padding: 12px 15px; 
+    text-align: left; 
+    border: 1px solid #ddd; 
+}
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;
+}
+address {
+    font-style: normal; 
+    font-size: 16px; 
+}
