@@ -1,0 +1,29 @@
+#todoList li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+
+#todoList li button {
+    background-color: #dc3545; 
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+#todoList li button:hover {
+    background-color: green; 
+    transform: scale(1.05);
+    cursor: pointer;
+}
+#addBtn{
+   margin-left: 8px;
+}
+#editBtn{
+    background-color: black;
+}
