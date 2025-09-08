@@ -1,1 +1,2 @@
 # All-SMIT-Assignment
+HTML OR CSS OR JAVASCRIPT
